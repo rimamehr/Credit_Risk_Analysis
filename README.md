@@ -18,27 +18,27 @@ For any machine learning model, we first start with converting our string values
 - SMOTE Oversampling
   - Balanced Accuracy score - 0.6443721269403855
 
-  <img src="/Images/SMOTE_Oversampling.png" width="400"/> 
+  <img src="/Images/SMOTE_Oversampling.png"/> 
 
 - Undersampling
   - Balanced Accuracy score - 0.6443721269403855
 
-  <img src="/Images/Undersampling.png" width="400"/> 
+  <img src="/Images/Undersampling.png"/> 
 
 - Combination (Over and Under) Sampling
   - Balanced Accuracy score - 0.5172544730088513
 
-  <img src="/Images/Combination_sampling.png" width="400"/> 
+  <img src="/Images/Combination_sampling.png"/> 
 
 - Balanced Random Forest Classifier
   - Balanced Accuracy score - 0.7877672625306695
 
-  <img src="/Images/Random_Forest.png" width="400"/> 
+  <img src="/Images/Random_Forest.png"/> 
 
 - Easy Ensemble AdaBoost Classifier
   - Balanced Accuracy score - 0.925427358175101
 
-  <img src="/Images/AdaBoost.png" width="400"/> 
+  <img src="/Images/AdaBoost.png" /> 
 
 
 ## Summary: 
