@@ -13,7 +13,7 @@ For any machine learning model, we first start with converting our string values
 - Naive Random Oversampling
   - Balanced Accuracy score - 0.6497536370265621
 
-  <img src="/Images/Naive_Random_Oversampling.png" width="400"/> 
+  <img src="/Images/Naive_Random_Oversampling.png" /> 
 
 - SMOTE Oversampling
   - Balanced Accuracy score - 0.6443721269403855
